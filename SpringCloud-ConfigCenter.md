@@ -1,2 +1,2 @@
-# SpringCloud-ConfigCenter
+# SpringCloud-ConfigCenter.
 
